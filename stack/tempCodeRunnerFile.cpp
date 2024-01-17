@@ -1,0 +1,15 @@
+s.push(12);
+    s.push(22);
+    s.push(32);
+    s.push(42);
+    cout<<s.peek()<<endl;
+    s.pop();
+    cout<<s.peek()<<endl;
+    s.pop();
+    cout<<s.peek()<<endl;
+    s.pop();
+    cout<<s.peek()<<endl;
+    s.pop();
+    cout<<s.peek()<<endl;
+    s.pop();
+    cout<<s.peek()<<endl;
